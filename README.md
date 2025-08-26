@@ -1,6 +1,9 @@
 # ToDo-application-in-Django
 This is a basic ToDo Application built using Django. The app allows users to manage their daily tasks by adding new tasks, marking them as completed, and deleting them.
 
+<img width="1365" height="649" alt="image" src="https://github.com/user-attachments/assets/ebb9185a-997e-43ad-92f9-38d46b43f2b6" />
+
+
 <h1>The app allows users to manage their daily tasks by:</h1>
 - ➕ Adding new tasks
 - ✔️ Marking tasks as completed
